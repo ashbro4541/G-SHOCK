@@ -1,0 +1,228 @@
+.logog{
+
+    width: 145px;
+    height: 70px;
+    margin-left: 25px; 
+  }
+  .navbar-nav{
+    background-color: black; font-size: 13px;
+  }
+ 
+  .boxnav{
+    height: 70px;
+    background-color: rgb(0, 0, 0);
+  }
+  .iconmenu{
+    font-size: 30px;
+    color: antiquewhite;
+  }
+  .youtubebox{
+    background-color: black;
+  }
+
+  .firebox{
+    width: 100%;
+    height: 100%;
+    img{
+      width: 100%;
+    }
+
+  }
+
+
+  /* navbar */
+  .navbar {
+    position: fixed !important; /* Force it to stay fixed */
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1050; /* High value to stay above other content */
+    background: rgba(0, 0, 0, 0.9); /* Ensure visibility */
+    padding: 10px 20px;
+}
+
+/* Prevent content from going under the navbar */
+body {
+    padding-top: 70px; /* Adjust based on navbar height */
+}
+
+
+
+
+
+  /* card1 c */
+
+  /* .cardbody{
+
+
+    
+
+
+  }
+  .cardbody:hover {
+    
+  
+  } */
+
+
+
+  /* Container holding the image and the text */
+.containerbox {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.top-left {
+  position: absolute;
+  top: 4px;
+  left: 10px;
+  font-size: 90%;
+}
+
+.top-right {
+  position: absolute;
+  top: 4px;
+  right: 5px ;
+  background: transparent;
+  border:transparent;
+}
+.top-right:hover {
+  transform: scale(1.2); 
+
+
+}
+
+.top-right2 {
+  position: absolute;
+  top: 10px;
+  right: 8px ;
+  background: transparent;
+  border:transparent;
+}
+.top-right2:hover {
+  transform: scale(1.2); 
+
+
+}
+
+
+
+.cards{
+  .row{
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+
+  }
+}
+
+
+/* bestseller style */
+
+.boxleftside{
+
+  height: 100vh;
+  overflow-y: scroll;
+
+}
+.boxrightside{
+  height: 100vh;
+  
+  overflow-y: scroll;
+
+
+}
+
+.headbox{
+  font-family: cursive;
+  font-size: 15px;
+  font-weight: 500;
+
+}
+
+
+.imgfirstabout {
+  position: relative;
+  text-align: center;
+}
+
+.imgabouttext {
+
+  position: absolute;
+  top: 65%;
+  left: 3%;
+  transform: translateY(-50%);
+  color: black;
+  text-align: left;
+  width: 45%; /* Adjust as needed */
+}
+
+.imgfirstabout img {
+  width: 100%;
+  height: auto;
+}
+
+
+.bodyabout{
+
+  background: #eae1e1b5;
+}
+
+@media only screen and (min-width: 890px) {
+
+
+  .searchbar{
+display: none;
+  
+  }
+  .searchbar1{
+    input{
+      display: none;
+    }
+
+  }
+
+
+
+}
+
+
+
+ /* card 2 scale img  */
+
+
+.imgscale {
+  width: 100%; 
+  height: 100%; 
+  overflow: hidden; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgscale img {
+  width: 100%; 
+  height: 100%; 
+  object-fit: cover;
+  overflow: hidden; 
+  transition: transform 0.3s ease;
+}
+
+.imgscale:hover img {
+  transform: scale(1.1); 
+}
+
+
+.bagroundcolor{
+  background-color: rgba(236, 163, 137, 0.156) !important
+
+}
+.bagroundcolor3{
+  background-color: rgba(59, 101, 153, 0.096) !important
+
+}
+
+
+/* card 3 box  */
+
+

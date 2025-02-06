@@ -1,0 +1,810 @@
+{
+  "favorites": [],
+  "Address": [
+    {
+      "id": 1,
+      "name": "Rysha-Multibrand Watch Store",
+      "address": "Plot No 4, Hotel Prince Building, near Little Italy, Block D3, MIDC, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+      "link": "https://www.google.com/search?q=Plot+No+4%2C+Hotel+Prince+Building%2C+near+Little+Italy%2C+Block+D3%2C+MIDC%2C+Chinchwad%2C+Pimpri-Chinchwad%2C+Maharashtra+411019&oq=Plot+No+4%2C+Hotel+Prince+Building%2C+near+Little+Italy%2C+Block+D3%2C+MIDC%2C+Chinchwad%2C+Pimpri-Chinchwad%2C+Maharashtra+411019&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBBzk3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "id": 2,
+      "name": "Just in time trading pvt ltd",
+      "address": "202, Prithviraj B Gawade Estate, Old Mumbai - Pune Hwy, near Gawade Gas Agency, Anna Sahib Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+      "link": "https://www.google.com/search?q=Bus+Stop%2C+Unit+No.11%2612%2C+Ground+Floor%2C+Elpro+City+Square%2C+PCMC+Link+Rd%2C+near+Chinchwadgaon%2C+Pimpri-Chinchwad%2C+Maharashtra+411033&oq=Bus+Stop%2C+Unit+No.11%2612%2C+Ground+Floor%2C+Elpro+City+Square%2C+PCMC+Link+Rd%2C+near+Chinchwadgaon%2C+Pimpri-Chinchwad%2C+Maharashtra+411033&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzc4N2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "id": 3,
+      "name": "Just in time trading pvt ltd",
+      "address": "Kamal Watch Co. Pvt. Ltd. Shop No:003, Ground Floor-82 East, Srmt Mall & Multiplex, NH-216, Pithapuram Road, Near Sarpavaram Jn, Kakinada, Andhra Pradesh",
+      "link": "https://maps.app.goo.gl/JTvtUZxCVNH2krQV9"
+    },
+    {
+      "id": 4,
+      "name": "TIME SELLERS",
+      "address": "Sr no 174/1, Kunjir Shyama Prestige, Rahatni Jagtap Dairy Road, Pimple Saudagar, Pune, Maharashtra 411027 ",
+      "link": "https://maps.app.goo.gl/A2qe6iifNUJpJRVw7"
+    },
+    {
+      "id": 5,
+      "name": "Just in time trading pvt ltd",
+      "address": "Ground floor, Unit no. 3, ASTP Amar Sadanand Tech Park, Baner Rd, opp. Westside- Baner, Pune, Baner, Pune, Maharashtra 411045",
+      "link": "https://maps.app.goo.gl/QjWFdBzAhYYVqLbx7"
+    },
+    {
+      "id": 6,
+      "name": "G-SHOCK Exclusive, Mumbai",
+      "address": "Shop 12, Phoenix Mall, Lower Parel, Mumbai, Maharashtra",
+      "link": "https://maps.app.goo.gl/zWVv59kZ4anuhWDy9"
+    },
+    {
+      "id": 7,
+      "name": "Rysha-Multibrand Watch Store",
+      "address": "Plot No 4, Hotel Prince Building, near Little Italy, Block D3, MIDC, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+      "link": "https://www.google.com/search?q=Plot+No+4%2C+Hotel+Prince+Building%2C+near+Little+Italy%2C+Block+D3%2C+MIDC%2C+Chinchwad%2C+Pimpri-Chinchwad%2C+Maharashtra+411019&oq=Plot+No+4%2C+Hotel+Prince+Building%2C+near+Little+Italy%2C+Block+D3%2C+MIDC%2C+Chinchwad%2C+Pimpri-Chinchwad%2C+Maharashtra+411019&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAjIHCAIQIRiPAtIBBzk3M2owajeoAgCwAgA&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "id": 8,
+      "name": "Just in time trading pvt ltd",
+      "address": "202, Prithviraj B Gawade Estate, Old Mumbai - Pune Hwy, near Gawade Gas Agency, Anna Sahib Nagar, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+      "link": "https://www.google.com/search?q=Bus+Stop%2C+Unit+No.11%2612%2C+Ground+Floor%2C+Elpro+City+Square%2C+PCMC+Link+Rd%2C+near+Chinchwadgaon%2C+Pimpri-Chinchwad%2C+Maharashtra+411033&oq=Bus+Stop%2C+Unit+No.11%2612%2C+Ground+Floor%2C+Elpro+City+Square%2C+PCMC+Link+Rd%2C+near+Chinchwadgaon%2C+Pimpri-Chinchwad%2C+Maharashtra+411033&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzc4N2owajmoAgCwAgA&sourceid=chrome&ie=UTF-8"
+    },
+    {
+      "id": 9,
+      "name": "Just in time trading pvt ltd",
+      "address": "Kamal Watch Co. Pvt. Ltd. Shop No:003, Ground Floor-82 East, Srmt Mall & Multiplex, NH-216, Pithapuram Road, Near Sarpavaram Jn, Kakinada, Andhra Pradesh",
+      "link": "https://maps.app.goo.gl/JTvtUZxCVNH2krQV9"
+    },
+    {
+      "id": 10,
+      "name": "TIME SELLERS",
+      "address": "Sr no 174/1, Kunjir Shyama Prestige, Rahatni Jagtap Dairy Road, Pimple Saudagar, Pune, Maharashtra 411027 ",
+      "link": "https://maps.app.goo.gl/A2qe6iifNUJpJRVw7"
+    },
+    {
+      "id": 11,
+      "name": "Just in time trading pvt ltd",
+      "address": "Ground floor, Unit no. 3, ASTP Amar Sadanand Tech Park, Baner Rd, opp. Westside- Baner, Pune, Baner, Pune, Maharashtra 411045",
+      "link": "https://maps.app.goo.gl/QjWFdBzAhYYVqLbx7"
+    },
+    {
+      "id": 12,
+      "name": "G-SHOCK Exclusive, Mumbai",
+      "address": "Shop 12, Phoenix Mall, Lower Parel, Mumbai, Maharashtra",
+      "link": "https://maps.app.goo.gl/zWVv59kZ4anuhWDy9"
+    }
+  ],
+  "card1": [
+    {
+      "id": 1,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10046.png",
+      "card1img2": "Images/G-SHOCK/10047.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": ""
+    },
+    {
+      "id": 2,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10048.png",
+      "card1img2": "Images/G-SHOCK/10049.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": "14,995"
+    },
+    {
+      "id": 3,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10050.png",
+      "card1img2": "Images/G-SHOCK/10051.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-110RL-1A",
+      "Prise": "11,695"
+    },
+    {
+      "id": 4,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10052.png",
+      "card1img2": "Images/G-SHOCK/10053.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-2100RL-1A",
+      "Prise": "9,195"
+    },
+    {
+      "id": 5,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10054.png",
+      "card1img2": "Images/G-SHOCK/10055.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-S2110B-8A",
+      "Prise": "14,495"
+    },
+    {
+      "id": 6,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10059.png",
+      "card1img2": "Images/G-SHOCK/10060.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-010-1A1",
+      "Prise": "16,995"
+    },
+    {
+      "id": 7,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10061.png",
+      "card1img2": "Images/G-SHOCK/10062.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-5600RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 8,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10063.png",
+      "card1img2": "Images/G-SHOCK/10064.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-6900RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 9,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10065.png",
+      "card1img2": "Images/G-SHOCK/10066.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GD-010-1A1",
+      "Prise": "6,995"
+    },
+    {
+      "id": 10,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration n",
+      "card1img1": "Images/G-SHOCK/10067.png",
+      "card1img2": "Images/G-SHOCK/10068.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-2100YMG-9A",
+      "Prise": "24,995"
+    }
+  ],
+  "card2": [
+    {
+      "id": 1,
+      "Card2img": "Images/G-SHOCK/10110.jpeg",
+      "About_gshock": "BRAND STORY"
+    },
+    {
+      "id": 2,
+      "Card2img": "Images/G-SHOCK/10111.jpeg",
+      "About_gshock": "TECHONOLOGY"
+    },
+    {
+      "id": 3,
+      "Card2img": "Images/G-SHOCK/10112.jpeg",
+      "About_gshock": "SHOCK RESISTANCE"
+    },
+    {
+      "id": 4,
+      "Card2img": "Images/G-SHOCK/10113.jpeg",
+      "About_gshock": "TEAM G-SHOCK"
+    },
+    {
+      "id": 5,
+      "Card2img": "Images/G-SHOCK/10114.jpeg",
+      "About_gshock": " 50th Anniversary"
+    },
+    {
+      "id": 6,
+      "Card2img": "Images/G-SHOCK/10115.jpeg",
+      "About_gshock": "SHOCK THE WORLD 2023"
+    }
+  ],
+  "card3": [
+    {
+      "id": 1,
+      "card3img": "Images/G-SHOCK/10117.jpeg",
+      "titalnew": "G-STEEL GM-700 SERIES",
+      "About1": "Metal-clad watches with an oversize case and awesome presence"
+    },
+    {
+      "id": 2,
+      "card3img": "Images/G-SHOCK/10118.jpeg",
+      "titalnew": "RUI HACHIMURA SIGNATURE MODEL",
+      "About1": "Pro basketball player Rui Hachimura’s fourth signature model"
+    },
+    {
+      "id": 3,
+      "card3img": "Images/G-SHOCK/10119.jpeg",
+      "titalnew": "GBM-2100 SERIES",
+      "About1": "Metal-clad daring meets sophisticated gleam in G-SHOCK watches with Tough Solar and Smartphone Link."
+    },
+    {
+      "id": 4,
+      "card3img": "Images/G-SHOCK/10120.jpeg",
+      "titalnew": "NEW DROPS"
+    },
+    {
+      "id": 5,
+      "card3img": "Images/G-SHOCK/10121.jpeg",
+      "titalnew": "LIMITED EDITION - MANGA COLLECTION"
+    },
+    {
+      "id": 6,
+      "card3img": "Images/G-SHOCK/10122.jpeg",
+      "titalnew": "FULL METAL COLLECTION",
+      "About1": ""
+    },
+    {
+      "id": 7,
+      "card3img": "Images/G-SHOCK/10123.jpeg",
+      "titalnew": "MT-G",
+      "About1": ""
+    },
+    {
+      "id": 8,
+      "card3img": "Images/G-SHOCK/10124.jpeg",
+      "titalnew": "SURFRIDER MODEL",
+      "About1": ""
+    },
+    {
+      "id": 9,
+      "card3img": "Images/G-SHOCK/10125.jpeg",
+      "titalnew": "GRAVITY MASTER",
+      "About1": ""
+    },
+    {
+      "id": 10,
+      "card3img": "Images/G-SHOCK/10126.jpeg",
+      "titalnew": "MULTI FLUORESCENT"
+    },
+    {
+      "id": 11,
+      "card3img": "Images/G-SHOCK/10127.jpeg",
+      "titalnew": "G-STEEL GM-700 SERIES",
+      "About1": "Metal-clad watches with an oversize case and awesome presence"
+    }
+  ],
+  "cardbestceller": [
+    {
+      "id": 1,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10046.png",
+      "card1img2": "Images/G-SHOCK/10047.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": ""
+    },
+    {
+      "id": 2,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10048.png",
+      "card1img2": "Images/G-SHOCK/10049.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": "14,995"
+    },
+    {
+      "id": 3,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10050.png",
+      "card1img2": "Images/G-SHOCK/10051.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-110RL-1A",
+      "Prise": "11,695"
+    },
+    {
+      "id": 4,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10052.png",
+      "card1img2": "Images/G-SHOCK/10053.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-2100RL-1A",
+      "Prise": "9,195"
+    },
+    {
+      "id": 5,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10054.png",
+      "card1img2": "Images/G-SHOCK/10055.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-S2110B-8A",
+      "Prise": "14,495"
+    },
+    {
+      "id": 6,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10059.png",
+      "card1img2": "Images/G-SHOCK/10060.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-010-1A1",
+      "Prise": "16,995"
+    },
+    {
+      "id": 7,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10061.png",
+      "card1img2": "Images/G-SHOCK/10062.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-5600RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 8,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10063.png",
+      "card1img2": "Images/G-SHOCK/10064.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-6900RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 9,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10065.png",
+      "card1img2": "Images/G-SHOCK/10066.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GD-010-1A1",
+      "Prise": "6,995"
+    },
+    {
+      "id": 10,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration n",
+      "card1img1": "Images/G-SHOCK/10067.png",
+      "card1img2": "Images/G-SHOCK/10068.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-2100YMG-9A",
+      "Prise": "24,995"
+    },
+    {
+      "id": 11,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10046.png",
+      "card1img2": "Images/G-SHOCK/10047.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": ""
+    },
+    {
+      "id": 12,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10048.png",
+      "card1img2": "Images/G-SHOCK/10049.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": "14,995"
+    },
+    {
+      "id": 13,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10050.png",
+      "card1img2": "Images/G-SHOCK/10051.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-110RL-1A",
+      "Prise": "11,695"
+    },
+    {
+      "id": 14,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10052.png",
+      "card1img2": "Images/G-SHOCK/10053.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-2100RL-1A",
+      "Prise": "9,195"
+    },
+    {
+      "id": 15,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10054.png",
+      "card1img2": "Images/G-SHOCK/10055.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-S2110B-8A",
+      "Prise": "14,495"
+    },
+    {
+      "id": 16,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10059.png",
+      "card1img2": "Images/G-SHOCK/10060.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-010-1A1",
+      "Prise": "16,995"
+    },
+    {
+      "id": 17,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10061.png",
+      "card1img2": "Images/G-SHOCK/10062.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-5600RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 18,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10063.png",
+      "card1img2": "Images/G-SHOCK/10064.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-6900RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 19,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10065.png",
+      "card1img2": "Images/G-SHOCK/10066.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GD-010-1A1",
+      "Prise": "6,995"
+    },
+    {
+      "id": 20,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration n",
+      "card1img1": "Images/G-SHOCK/10067.png",
+      "card1img2": "Images/G-SHOCK/10068.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-2100YMG-9A",
+      "Prise": "24,995"
+    }
+  ],
+  "newdropmaincard": [
+    {
+      "id": 1,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10046.png",
+      "card1img2": "Images/G-SHOCK/10047.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": ""
+    },
+    {
+      "id": 2,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10048.png",
+      "card1img2": "Images/G-SHOCK/10049.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": "14,995"
+    },
+    {
+      "id": 3,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10050.png",
+      "card1img2": "Images/G-SHOCK/10051.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-110RL-1A",
+      "Prise": "11,695"
+    },
+    {
+      "id": 4,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10052.png",
+      "card1img2": "Images/G-SHOCK/10053.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-2100RL-1A",
+      "Prise": "9,195"
+    },
+    {
+      "id": 5,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10054.png",
+      "card1img2": "Images/G-SHOCK/10055.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-S2110B-8A",
+      "Prise": "14,495"
+    },
+    {
+      "id": 6,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10059.png",
+      "card1img2": "Images/G-SHOCK/10060.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-010-1A1",
+      "Prise": "16,995"
+    },
+    {
+      "id": 7,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10061.png",
+      "card1img2": "Images/G-SHOCK/10062.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-5600RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 8,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10063.png",
+      "card1img2": "Images/G-SHOCK/10064.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-6900RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 9,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10065.png",
+      "card1img2": "Images/G-SHOCK/10066.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GD-010-1A1",
+      "Prise": "6,995"
+    },
+    {
+      "id": 10,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration n",
+      "card1img1": "Images/G-SHOCK/10067.png",
+      "card1img2": "Images/G-SHOCK/10068.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-2100YMG-9A",
+      "Prise": "24,995"
+    },
+    {
+      "id": 11,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10046.png",
+      "card1img2": "Images/G-SHOCK/10047.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": ""
+    },
+    {
+      "id": 12,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10048.png",
+      "card1img2": "Images/G-SHOCK/10049.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DWE-5600JB-1A9",
+      "Prise": "14,995"
+    },
+    {
+      "id": 13,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10050.png",
+      "card1img2": "Images/G-SHOCK/10051.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-110RL-1A",
+      "Prise": "11,695"
+    },
+    {
+      "id": 14,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10052.png",
+      "card1img2": "Images/G-SHOCK/10053.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-2100RL-1A",
+      "Prise": "9,195"
+    },
+    {
+      "id": 15,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10054.png",
+      "card1img2": "Images/G-SHOCK/10055.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-S2110B-8A",
+      "Prise": "14,495"
+    },
+    {
+      "id": 16,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10059.png",
+      "card1img2": "Images/G-SHOCK/10060.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GA-010-1A1",
+      "Prise": "16,995"
+    },
+    {
+      "id": 17,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10061.png",
+      "card1img2": "Images/G-SHOCK/10062.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-5600RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 18,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10063.png",
+      "card1img2": "Images/G-SHOCK/10064.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "DW-6900RL-1",
+      "Prise": "7,995"
+    },
+    {
+      "id": 19,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration ",
+      "card1img1": "Images/G-SHOCK/10065.png",
+      "card1img2": "Images/G-SHOCK/10066.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GD-010-1A1",
+      "Prise": "6,995"
+    },
+    {
+      "id": 20,
+      "Section_head": "new drops",
+      "ImgText": "J Balvin collaboration n",
+      "card1img1": "Images/G-SHOCK/10067.png",
+      "card1img2": "Images/G-SHOCK/10068.jpg",
+      "Brand": "G-SHOCK",
+      "Model": "GM-2100YMG-9A",
+      "Prise": "24,995"
+    }
+  ],
+  "newdropcard1": [
+    {
+      "id": 1,
+      "card3img": "Images/G-SHOCK/10117.jpeg",
+      "titalnew": "G-STEEL GM-700 SERIES",
+      "About1": "Metal-clad watches with an oversize case and awesome presence"
+    },
+    {
+      "id": 2,
+      "card3img": "Images/G-SHOCK/10118.jpeg",
+      "titalnew": "RUI HACHIMURA SIGNATURE MODEL",
+      "About1": "Pro basketball player Rui Hachimura’s fourth signature model"
+    },
+    {
+      "id": 3,
+      "card3img": "Images/G-SHOCK/10119.jpeg",
+      "titalnew": "GBM-2100 SERIES",
+      "About1": "Metal-clad daring meets sophisticated gleam in G-SHOCK watches with Tough Solar and Smartphone Link."
+    },
+    {
+      "id": 4,
+      "card3img": "Images/G-SHOCK/10120.jpeg",
+      "titalnew": "NEW DROPS"
+    },
+    {
+      "id": 5,
+      "card3img": "Images/G-SHOCK/10121.jpeg",
+      "titalnew": "LIMITED EDITION - MANGA COLLECTION"
+    },
+    {
+      "id": 6,
+      "card3img": "Images/G-SHOCK/10122.jpeg",
+      "titalnew": "FULL METAL COLLECTION",
+      "About1": ""
+    },
+    {
+      "id": 7,
+      "card3img": "Images/G-SHOCK/10123.jpeg",
+      "titalnew": "MT-G",
+      "About1": ""
+    },
+    {
+      "id": 8,
+      "card3img": "Images/G-SHOCK/10124.jpeg",
+      "titalnew": "SURFRIDER MODEL",
+      "About1": ""
+    },
+    {
+      "id": 9,
+      "card3img": "Images/G-SHOCK/10125.jpeg",
+      "titalnew": "GRAVITY MASTER",
+      "About1": ""
+    },
+    {
+      "id": 10,
+      "card3img": "Images/G-SHOCK/10126.jpeg",
+      "titalnew": "MULTI FLUORESCENT"
+    },
+    {
+      "id": 11,
+      "card3img": "Images/G-SHOCK/10127.jpeg",
+      "titalnew": "G-STEEL GM-700 SERIES",
+      "About1": "Metal-clad watches with an oversize case and awesome presence"
+    }
+  ],
+  "Allcard": [
+    {
+      "id": 1,
+      "card3img": "Images/G-SHOCK/10117.jpeg",
+      "titalnew": "G-STEEL GM-700 SERIES",
+      "About1": "Metal-clad watches with an oversize case and awesome presence"
+    },
+    {
+      "id": 2,
+      "card3img": "Images/G-SHOCK/10118.jpeg",
+      "titalnew": "RUI HACHIMURA SIGNATURE MODEL",
+      "About1": "Pro basketball player Rui Hachimura’s fourth signature model"
+    },
+    {
+      "id": 3,
+      "card3img": "Images/G-SHOCK/10119.jpeg",
+      "titalnew": "GBM-2100 SERIES",
+      "About1": "Metal-clad daring meets sophisticated gleam in G-SHOCK watches with Tough Solar and Smartphone Link."
+    },
+    {
+      "id": 4,
+      "card3img": "Images/G-SHOCK/10120.jpeg",
+      "titalnew": "NEW DROPS"
+    },
+    {
+      "id": 5,
+      "card3img": "Images/G-SHOCK/10121.jpeg",
+      "titalnew": "LIMITED EDITION - MANGA COLLECTION"
+    },
+    {
+      "id": 6,
+      "card3img": "Images/G-SHOCK/10122.jpeg",
+      "titalnew": "FULL METAL COLLECTION",
+      "About1": ""
+    },
+    {
+      "id": 7,
+      "card3img": "Images/G-SHOCK/10123.jpeg",
+      "titalnew": "MT-G",
+      "About1": ""
+    },
+    {
+      "id": 8,
+      "card3img": "Images/G-SHOCK/10124.jpeg",
+      "titalnew": "SURFRIDER MODEL",
+      "About1": ""
+    },
+    {
+      "id": 9,
+      "card3img": "Images/G-SHOCK/10125.jpeg",
+      "titalnew": "GRAVITY MASTER",
+      "About1": ""
+    },
+    {
+      "id": 10,
+      "card3img": "Images/G-SHOCK/10126.jpeg",
+      "titalnew": "MULTI FLUORESCENT"
+    },
+    {
+      "id": 11,
+      "card3img": "Images/G-SHOCK/10127.jpeg",
+      "titalnew": "G-STEEL GM-700 SERIES",
+      "About1": "Metal-clad watches with an oversize case and awesome presence"
+    }
+  ]
+}
