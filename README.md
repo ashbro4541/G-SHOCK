@@ -6,7 +6,8 @@ Welcome to the **Luxury Watch Store** – a modern e-commerce web application bu
 
 ## 🔹 Home Page
 This is the landing page of the website, showcasing the brand and featured products.  
-![Home Page](https://github.com/user-attachments/assets/f23d2d05-778b-47a1-a708-d97af59848f0)
+![Home Page](https://github.com/user-attachments/assets/060a2192-012c-42ca-a3d0-f0d6d9b538ca)
+
 
 ---
 
