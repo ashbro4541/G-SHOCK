@@ -1,14 +1,14 @@
 # 🕒 Luxury Watch Store – React Web App
 
 Welcome to the **Luxury Watch Store** – a modern e-commerce web application built with React. The site features a range of premium watches, along with functionality to browse, favorite, add, and manage products.
-![WhatsApp Image 2025-06-21 at 16 40 20_9f2a0e01](https://github.com/user-attachments/assets/f23d2d05-778b-47a1-a708-d97af59848f0)
+
 
 ---
 
 ## 🔹 Home Page
 
 This is the landing page of the website, showcasing the brand and featured products.
-
+![WhatsApp Image 2025-06-21 at 16 40 20_9f2a0e01](https://github.com/user-attachments/assets/f23d2d05-778b-47a1-a708-d97af59848f0)
 
 ---
 
